@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m an AI enthusiast specializing in deep learning, NLP, and computer vision. I have hands-on experience developing and optimizing computer vision algorithms for advanced image and video analysis. I’m passionate about applying AI to solve real-world problems and continually refining models for greater accuracy and efficiency.
 
 
